@@ -1,11 +1,11 @@
 
 # Javscript
 
-Summary of tips and tricks and small projects about javascript.
+This repository contains tips and tricks and small projects about html5, css3 and javascript, and each project has instructions in the readme file.
 
 ## Tech Stack
 
-Javascript, Html5, Css3, Jquery, Ajax
+Javascript, Html5, Css3.
 
 ## Feedback
 
